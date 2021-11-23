@@ -5,21 +5,19 @@ Deployment
 Quick Start
 -----------
 
-.. code-block::
+Clone the repository::
 
-    git clone git@github.com:Thaerious/famous-trivia-index.git
-    cd trivia-index
+    git clone git@github.com:Thaerious/famous-trivia-server.git
+    cd famous-trivia-server
     npm i
     npm run build-css
-    node . -r
-    node .
+    node . -r # render .ejs files
+    node . # start the server
 
 Details
 -------
 
-Clone the repository onto your index.
-
-.. code-block::
+Clone the repository onto your index::
 
     git clone git@github.com:Thaerious/trivia-index.git
     cd trivia-index
