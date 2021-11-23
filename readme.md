@@ -1,11 +1,8 @@
-<<<<<<< HEAD
 Checkout documenation with:
 ```
 git clone git@github.com:Thaerious/famous-trivia-server.git
 ```
 
-=======
->>>>>>> 00e0bddef8ddb3d4db566c248cd5b57bd60da27e
 The documentation is made with SPHINX.
 To build, execute the following:
 
